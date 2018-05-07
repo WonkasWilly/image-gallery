@@ -1,0 +1,1 @@
+This project was to get familiar with Bootstrap and learn about responsive web design.
